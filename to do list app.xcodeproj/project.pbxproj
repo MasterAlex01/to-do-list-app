@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		BD4484FB2A4CD8F3007194DD /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD4484FA2A4CD8F3007194DD /* Persistence.swift */; };
-		BD4484FE2A4DD7B0007194DD /* dataModel.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = BD4484FC2A4DD7B0007194DD /* dataModel.xcdatamodeld */; };
+		BD4484FE2A4DD7B0007194DD /* to do list app.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = BD4484FC2A4DD7B0007194DD /* to do list app.xcdatamodeld */; };
 		BDF715642A4B499E005920AB /* to_do_list_appApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDF715632A4B499E005920AB /* to_do_list_appApp.swift */; };
 		BDF715662A4B499E005920AB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDF715652A4B499E005920AB /* ContentView.swift */; };
 		BDF715682A4B49A0005920AB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BDF715672A4B49A0005920AB /* Assets.xcassets */; };
@@ -66,7 +66,7 @@
 				BD4484FA2A4CD8F3007194DD /* Persistence.swift */,
 				BDF715672A4B49A0005920AB /* Assets.xcassets */,
 				BDF715692A4B49A0005920AB /* Preview Content */,
-				BD4484FC2A4DD7B0007194DD /* dataModel.xcdatamodeld */,
+				BD4484FC2A4DD7B0007194DD /* to do list app.xcdatamodeld */,
 			);
 			path = "to do list app";
 			sourceTree = "<group>";
@@ -150,7 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BDF715742A4B4D87005920AB /* newToDo.swift in Sources */,
-				BD4484FE2A4DD7B0007194DD /* dataModel.xcdatamodeld in Sources */,
+				BD4484FE2A4DD7B0007194DD /* to do list app.xcdatamodeld in Sources */,
 				BDF715662A4B499E005920AB /* ContentView.swift in Sources */,
 				BDF715642A4B499E005920AB /* to_do_list_appApp.swift in Sources */,
 				BDF715722A4B4A0D005920AB /* ToDoItem.swift in Sources */,
@@ -355,13 +355,13 @@
 /* End XCConfigurationList section */
 
 /* Begin XCVersionGroup section */
-		BD4484FC2A4DD7B0007194DD /* dataModel.xcdatamodeld */ = {
+		BD4484FC2A4DD7B0007194DD /* to do list app.xcdatamodeld */ = {
 			isa = XCVersionGroup;
 			children = (
 				BD4484FD2A4DD7B0007194DD /* dataModel.xcdatamodel */,
 			);
 			currentVersion = BD4484FD2A4DD7B0007194DD /* dataModel.xcdatamodel */;
-			path = dataModel.xcdatamodeld;
+			path = "to do list app.xcdatamodeld";
 			sourceTree = "<group>";
 			versionGroupType = wrapper.xcdatamodel;
 		};
